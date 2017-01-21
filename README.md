@@ -19,4 +19,6 @@ La configuracion que tiene el archivo es la siguiente:
  * Rip por las tres redes que van al router 192.168.1.0 , 10.0.0.0 y 11.0.0.0
  * Tiene un servidor Web en la ip 192.168.1.1/29 y conectado con un servidor DNS a la url www.wagner.de
  * Ese servidor actua como DNS reconociendo los dominios www.albacete.es, www.wagner.de, www.dilar.com
+ * El servidor tambien actua como DHCP asignado ips desde la 192.168.1.10 hasta la 192.168.1.253
  * Switch Conectada a ocho ordenadores y un servidor
+
